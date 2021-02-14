@@ -1,7 +1,7 @@
-# mevn-crud
-## Masomo App  - MEVN stack - CRUD Application 
+# MASOMO APP
+## MEVN stack CRUD Application 
 
-### A tutorial pplication built in Vue.js , Node.js , Express and MongoDB
+### A tutorial application built in Vue.js , Node.js , Express and MongoDB
 
 - Each tutorial has id, title, description, published status
 - A User can create, retrieve, update, delete tutorials.
